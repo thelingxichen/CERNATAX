@@ -6,4 +6,4 @@ We have manually curated a ceRNA network database by integrating TargetSCAN 8.0,
 
 To run CERNATAX with full reference ceRNA network, please download the full db file [`ceRNA_database.csv`](https://www.dropbox.com/scl/fi/cepr33ia5ltm54ru79j35/ceRNA_database.csv?rlkey=l5c0dc8rw3e4vr6ekylxlu7dl&dl=0), and place it into `cernatax/db'.
 
-The tutorial and case study of the SCZ cohort is placed at `run_scz.ipynb'.
+The tutorial and case study of the SCZ cohort is placed at `run_scz.ipynb`.
